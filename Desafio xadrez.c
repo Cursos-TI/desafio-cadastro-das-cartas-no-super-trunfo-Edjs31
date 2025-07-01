@@ -1,5 +1,5 @@
-#Include <studio.h>
+#include <stdio.h>
 
-Int main(){
-
+int main(){
+printf("Desafio xadrez!\n");
 }
