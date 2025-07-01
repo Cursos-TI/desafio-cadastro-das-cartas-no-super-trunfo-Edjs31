@@ -1,6 +1,0 @@
-#Include <studio.h>
-
-Int main(){
-printf("Desafio xadrez!\n");
-}
-
